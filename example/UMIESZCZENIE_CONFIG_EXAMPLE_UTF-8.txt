@@ -1,0 +1,33 @@
+[WERSJA_DOC_GENERATORA]: 3.4
+
+
+[NR_SPRAWY]: TE-DW.4052.99.2022
+[DATA_ZAWARCIA_UMOWY]: 10.09.2021
+[DATA_ZAWIADOMIENIE]: 02.09.2021
+
+[DATA_START_BEZUMOWNE]: 24.08.2021
+[DATA_STOP_BEZUMOWNE]: 10.09.2021
+
+[ZDZIT_REPREZENTACJA]: Pana ........................ - Zastępcę Dyrektora ds. Technicznych
+
+[NAZWA_STRONY]: spółką ABC123 Sp. z o.o. z/s w Olsztynie, ul. Pieniężnego 0, 10-900 Olsztyn
+[ADRES_STRONY]: ABC123 Sp. z o.o., ul. Pieniężnego 0, 10-900 Olsztyn
+[NIP_REGON_KRS]: NIP: 000-000-00-00, REGON: 000000000, KRS: 000000000
+[REPREZENTACJA_STRONY]: reprezentowaną przez: ....................................................................................
+[ZWANYM_RODZAJ]: zwaną								# zwanym zwaną
+
+[NAZWA_ULICY]: ul. Kuronia
+[DZIAŁKI_DO_ZAJĘCIA]: dz. nr: 31-1/252
+
+[POWIERZCHNIA_M2]: 4,00
+[UDZIAL_JEDEN_NA]: 								# liczba całkowita lub nic
+[W_CELU_WYBUDOWANIA_UMIESZCZENIA]: sieci ciepłowniczej
+[NIEZWIĄZANEGO_RODZAJ]: niezwiązanej						# niezwiązanego niezwiązanej
+
+[CZAS_ZAJĘCIA_DNI]: ..........
+[UMOWA_ZOSTAJE_ZAWARTA_NA_CZAS]: nieokreślony
+
+[STAWKA_VAT_PROCENT]: 23
+[STAWKA_CZYNSZU_NETTO]: 40,00
+[STAWKA_CZYNSZU_OKRES]: roczna							# dzienna roczna
+
